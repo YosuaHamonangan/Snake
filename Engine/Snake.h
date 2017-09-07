@@ -6,7 +6,6 @@
 #define MOVEDOWN 3
 #define MOVERIGHT 2
 #define MOVELEFT 4
-using namespace std;
 
 class snake
 {
