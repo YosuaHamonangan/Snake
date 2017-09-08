@@ -1,2 +1,2 @@
 # Snake
-Making snake game using in c++ Chili's framework
+Making snake game using Chili's framework in c++ 
